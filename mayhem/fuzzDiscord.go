@@ -1,4 +1,4 @@
-package fuzz
+package fuzzDiscord
 
 import "strconv"
 import "github.com/disgoorg/disgo/discord"
